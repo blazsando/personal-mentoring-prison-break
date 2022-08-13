@@ -1,4 +1,4 @@
-from Prisoner import Prison
+from prisoner import Prison
 
 
 def main(prisoner_num):
@@ -8,4 +8,4 @@ def main(prisoner_num):
 
 
 if __name__ == '__main__':
-    main(100)
+    main(20)
