@@ -1,4 +1,4 @@
-from prisoner import Prison
+from prison import Prison
 
 
 def main(prisoner_num):
